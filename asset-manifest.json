@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/coviddataportal/static/css/main.ca4025be.chunk.css",
+    "main.js": "/coviddataportal/static/js/main.8badd906.chunk.js",
+    "main.js.map": "/coviddataportal/static/js/main.8badd906.chunk.js.map",
+    "runtime-main.js": "/coviddataportal/static/js/runtime-main.83d73118.js",
+    "runtime-main.js.map": "/coviddataportal/static/js/runtime-main.83d73118.js.map",
+    "static/js/2.f4a75189.chunk.js": "/coviddataportal/static/js/2.f4a75189.chunk.js",
+    "static/js/2.f4a75189.chunk.js.map": "/coviddataportal/static/js/2.f4a75189.chunk.js.map",
+    "static/js/3.c5a20cb3.chunk.js": "/coviddataportal/static/js/3.c5a20cb3.chunk.js",
+    "static/js/3.c5a20cb3.chunk.js.map": "/coviddataportal/static/js/3.c5a20cb3.chunk.js.map",
+    "index.html": "/coviddataportal/index.html",
+    "static/css/main.ca4025be.chunk.css.map": "/coviddataportal/static/css/main.ca4025be.chunk.css.map",
+    "static/js/2.f4a75189.chunk.js.LICENSE.txt": "/coviddataportal/static/js/2.f4a75189.chunk.js.LICENSE.txt",
+    "static/media/Homepage.css": "/coviddataportal/static/media/landing.c7a48410.jpg",
+    "static/media/NationalHelpline.css": "/coviddataportal/static/media/nationalhelp.5f661f3d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83d73118.js",
+    "static/js/2.f4a75189.chunk.js",
+    "static/css/main.ca4025be.chunk.css",
+    "static/js/main.8badd906.chunk.js"
+  ]
+}
